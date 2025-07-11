@@ -6,6 +6,6 @@
 # 📫 Contato:
 - 📧 Email: *wevertontomas@outlook.com*
 - 📞 +55 (81) 98573-5493
-- 📍 Localização: Cabo de Santo Agostinho - PE, Brasil
+- 📍 Localização: Recife - PE, Brasil
 
 Estou sempre em evolução, buscando aprender, criar e crescer na área de tecnologia.  
