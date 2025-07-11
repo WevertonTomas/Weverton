@@ -1,7 +1,7 @@
 #  Olá! Eu sou o Weverton Tomás
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Aprendendo C, SQL, UML, HTML/CSS e lógica de programação  
+💻 Aprendendo C, SQL, HTML/CSS e lógica de programação  
 
 # 📫 Contato:
 - 📧 Email: *wevertontomas@outlook.com*
